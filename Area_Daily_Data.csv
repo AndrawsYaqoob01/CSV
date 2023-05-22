@@ -89,96 +89,96 @@ Transaction date,industry,segment,geo_type,geo_name,nation_name,boundary_name,Tr
 3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Central Business,119.98,152.63,154.92,39.87,100.66,40.65,28.31,32.63
 3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Central Business,191.55,192.12,192.03,49.86,101.74,51.66,18.9,35.66
 3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Central Business,163.69,163.92,166.24,47.01,100.96,48.07,48.89,23.95
-1/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,11.04,15.9,16.62,27.98,99.8,27.14,-32.35,-26.91
-1/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,15.11,19.07,17.66,39.8,106.52,40.92,-1.91,-29.28
-1/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,32.19,30.53,29.28,41.04,107.54,43.53,25.36,60.49
-1/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,39.67,39.91,39.65,42.26,102.97,44.35,94.32,58.64
-1/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,45.08,40.3,39.55,51.87,108.43,53.49,332.84,140.96
-1/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,40.04,39.65,39.99,37.37,101.61,37.93,95.76,205.58
-1/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,25.97,25.7,24.83,52.77,103.93,54.32,47.22,45.33
-1/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,14.32,19.4,19.05,31.17,100.63,31.07,-26.72,-16.64
-1/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,30.07,29.89,29.48,58.81,103.23,60.67,64.55,28.47
-1/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.9,36.34,36.22,44.48,102.13,45.06,171.42,125.64
-1/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,29.52,34.74,34.74,33.37,101.5,33.84,131.31,72.97
-1/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,31.49,42.82,42.04,25.77,104.97,27.01,112.05,96.25
-1/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,39.08,39.55,39.27,34.06,102.62,34.73,192.6,91.53
-1/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,17.68,25.38,23.58,25.83,116.83,27.94,-9.16,0.04
-1/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,16.83,22.04,21.56,36.65,105.13,37.58,29.18,-1.19
-1/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,33.06,33.53,32.63,40.69,104.86,41.64,132.39,33.92
-1/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,36.1,36.33,35.73,58.24,104.04,59.5,137.04,113.59
-1/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,31.33,37.94,38.3,34.28,99.66,34.41,115.66,112.65
-1/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,39.56,44.96,44.12,35.42,105.57,36.09,68.64,109.52
-1/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.65,44.85,45.84,32.39,99.64,32.08,141.79,100.08
-1/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,21.3,30.34,29.79,29.9,103.78,30.72,2.75,31.95
-1/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,13.61,18.02,18.61,32.09,99.27,32.11,-39.56,-46.31
-1/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,54.84,41.8,42.2,64.96,100.89,64.71,200.05,79.16
-1/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.38,38.7,38.43,36.06,103.06,36.97,100.7,87.71
-1/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,36.47,43.58,42.69,29.24,102.15,29.59,144.63,118.42
-1/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,43.37,46.45,46.31,34.27,101.76,34.54,210.57,130.27
-1/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,47.08,40.11,39.64,48.73,103.12,49.49,199.14,75.31
-1/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,21.86,27.1,25.96,33.15,110.19,33.54,1.38,-9.43
-1/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,17.74,23.19,23.17,33.59,100.52,33.4,-9.56,-11.67
-1/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,29.46,37.77,37.21,39.65,104.27,41.49,64.16,27.88
-1/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,44.43,38.44,38.27,70.14,107.43,71.24,205.48,115.96
-2/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.14,48.68,48.47,25.1,104.77,25.71,152.68,117.87
-2/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,31.78,38.12,38.44,34.37,102.49,35.19,122.33,62.72
-2/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,45.52,46.56,46.23,35.78,103.51,36.49,284.46,143.59
-2/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,24.54,30.18,29.23,33.72,106.29,34.81,51.58,28.33
-2/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,15.14,22.75,21.55,27.63,104.24,28.3,-41.58,-2.75
-2/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,56.07,41.13,41.16,61.24,101.49,60.96,439.22,132.72
-2/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,47.52,43.49,43.88,53.3,100.99,53.3,266.21,117.33
-2/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,44.56,38.79,38.21,65.04,104.88,66.18,314.05,126.57
-2/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,40.75,36.18,35.93,59.36,103.44,61.62,226.89,115.65
-2/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,55.23,49.45,50.17,35.21,102.36,35.51,273.39,129.82
-2/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,22.1,26.88,26.36,43.85,102.24,44.4,-12.52,10.62
-2/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,16.61,23.55,23.18,30.57,103.91,31.38,-40.51,-26.65
-2/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,41.16,39.92,39.38,52.11,111.76,55.81,101.78,96.7
-2/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,39.88,38.91,39.86,39.29,99.65,39.19,84.32,72.79
-2/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,61.42,57.78,57.37,40.94,102.65,41.61,228.56,200.58
-2/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,35.39,44.2,43.02,34.78,105.89,37.01,48.49,157.92
-2/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,46.37,55.18,55.67,35.62,104.48,36.52,123.28,138.01
-2/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,28.03,34.51,33.88,29.93,103.77,30.88,47.8,37.31
-2/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,16.98,22.39,21.3,30.12,104.66,30.57,-39.5,-31.93
-2/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,35.51,30.95,29.06,45.01,109.41,49.84,83.14,30.18
-2/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.6,38.89,38.39,44.19,103.32,45.4,143.39,113.42
-2/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,48.15,35.47,36.07,48.54,102.54,48.72,204.78,76.58
-2/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,36.65,43.49,42.91,30.06,104.09,31.12,79.24,96.71
-2/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,62.92,48.4,49.3,50.69,101.21,50.78,200.97,83.28
-2/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,38.3,31.94,32.37,55.37,99.81,55.62,50.33,25.44
-2/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,21.06,23.73,23.35,36.6,103.1,37.35,-13.34,-1.47
-2/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,50.62,45.58,44.68,53.45,103.91,55.93,190.81,85.66
-2/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,40.66,45.07,44.29,35.51,104.35,36.25,107.31,103.48
-3/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,44.6,37.06,37.55,59.78,100.37,60.42,224.47,85.85
-3/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,43.56,37,35.85,41.01,107.98,42.94,103.1,52.02
-3/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,56.37,45.74,46.06,46.83,103.72,48.48,164.1,117.1
-3/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,29.36,29.99,29.11,41.81,103.1,42.69,71.83,6.05
-3/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,13.89,19.62,18.11,28.83,104.62,29.9,-53.99,-36.3
-3/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,29.89,30,30.44,40.14,102.76,40.01,123.77,35.24
-3/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,33.7,41.08,41.55,30.31,100.25,30.46,52.17,98.94
-3/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,41.49,41.84,41.53,39.58,105.73,42.41,122.31,91.39
-3/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,29.86,40.92,40.95,27.83,101.34,28.2,108.7,75.91
-3/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,58,54.4,55.74,41.89,99.33,41.38,212.42,135.73
-3/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,24.6,31.51,31.31,29.3,101.69,29.44,7.14,27.86
-3/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,17.13,19.42,19.27,38.2,100.27,37.73,-47.18,-40.95
-3/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,37.02,35.42,34.94,61.66,102.11,63.74,25.18,41.41
-3/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,40.09,41.72,41.3,36.4,103.08,36.52,219.63,121.24
-3/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,53.86,47.89,47.17,52.63,103.64,53.79,123.71,82.58
-3/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,33.1,40.04,39.45,33.82,102.7,34.49,56.84,34.36
-3/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,47.18,45.93,45.16,41.72,107.12,44.1,34.45,44.24
-3/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,23.49,24.85,24.86,46.78,104.58,49.68,-19.01,-20.03
-3/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,14.71,21.93,21.92,25.38,102.43,26.05,-53.27,-13.88
-3/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,45.08,42.24,42.41,52.71,103.58,53.25,167.83,93.54
-3/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,57.4,51.37,49.64,55.7,110.51,59.97,222.8,126.37
-3/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,37.09,40.76,40.98,35.66,100.9,35.97,163.71,73.88
-3/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,43.96,50.63,49.31,36.88,104.01,37.77,47.23,82.41
-3/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,46.32,45.41,46.64,35.57,99.17,35.13,53.56,55.44
-3/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,19.85,25.96,25.76,30.98,102.43,31.84,-28.43,-9.91
-3/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,20.67,27.24,26.13,31.79,104.82,32.53,-24.1,-8.34
-3/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,36.27,39.14,38.54,40.7,103,41.36,85.41,58.17
-3/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,40.83,45.61,46.23,40.06,99.35,40.22,198.14,143.89
-3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,42.63,50.75,49.53,28.89,105.89,30.36,149.44,142.77
-3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,39.96,48.87,46.26,40.79,110.31,44.08,68.19,78.68
-3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Chinatown,58.02,57.31,55.09,33.71,111.38,35.18,145.98,115.04
+1/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,11.04,15.9,16.62,27.98,99.8,27.14,-32.35,-26.91
+1/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,15.11,19.07,17.66,39.8,106.52,40.92,-1.91,-29.28
+1/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,32.19,30.53,29.28,41.04,107.54,43.53,25.36,60.49
+1/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,39.67,39.91,39.65,42.26,102.97,44.35,94.32,58.64
+1/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,45.08,40.3,39.55,51.87,108.43,53.49,332.84,140.96
+1/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,40.04,39.65,39.99,37.37,101.61,37.93,95.76,205.58
+1/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,25.97,25.7,24.83,52.77,103.93,54.32,47.22,45.33
+1/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,14.32,19.4,19.05,31.17,100.63,31.07,-26.72,-16.64
+1/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,30.07,29.89,29.48,58.81,103.23,60.67,64.55,28.47
+1/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.9,36.34,36.22,44.48,102.13,45.06,171.42,125.64
+1/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,29.52,34.74,34.74,33.37,101.5,33.84,131.31,72.97
+1/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,31.49,42.82,42.04,25.77,104.97,27.01,112.05,96.25
+1/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,39.08,39.55,39.27,34.06,102.62,34.73,192.6,91.53
+1/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,17.68,25.38,23.58,25.83,116.83,27.94,-9.16,0.04
+1/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,16.83,22.04,21.56,36.65,105.13,37.58,29.18,-1.19
+1/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,33.06,33.53,32.63,40.69,104.86,41.64,132.39,33.92
+1/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,36.1,36.33,35.73,58.24,104.04,59.5,137.04,113.59
+1/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,31.33,37.94,38.3,34.28,99.66,34.41,115.66,112.65
+1/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,39.56,44.96,44.12,35.42,105.57,36.09,68.64,109.52
+1/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.65,44.85,45.84,32.39,99.64,32.08,141.79,100.08
+1/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,21.3,30.34,29.79,29.9,103.78,30.72,2.75,31.95
+1/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,13.61,18.02,18.61,32.09,99.27,32.11,-39.56,-46.31
+1/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,54.84,41.8,42.2,64.96,100.89,64.71,200.05,79.16
+1/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.38,38.7,38.43,36.06,103.06,36.97,100.7,87.71
+1/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,36.47,43.58,42.69,29.24,102.15,29.59,144.63,118.42
+1/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,43.37,46.45,46.31,34.27,101.76,34.54,210.57,130.27
+1/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,47.08,40.11,39.64,48.73,103.12,49.49,199.14,75.31
+1/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,21.86,27.1,25.96,33.15,110.19,33.54,1.38,-9.43
+1/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,17.74,23.19,23.17,33.59,100.52,33.4,-9.56,-11.67
+1/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,29.46,37.77,37.21,39.65,104.27,41.49,64.16,27.88
+1/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,44.43,38.44,38.27,70.14,107.43,71.24,205.48,115.96
+2/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.14,48.68,48.47,25.1,104.77,25.71,152.68,117.87
+2/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,31.78,38.12,38.44,34.37,102.49,35.19,122.33,62.72
+2/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,45.52,46.56,46.23,35.78,103.51,36.49,284.46,143.59
+2/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,24.54,30.18,29.23,33.72,106.29,34.81,51.58,28.33
+2/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,15.14,22.75,21.55,27.63,104.24,28.3,-41.58,-2.75
+2/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,56.07,41.13,41.16,61.24,101.49,60.96,439.22,132.72
+2/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,47.52,43.49,43.88,53.3,100.99,53.3,266.21,117.33
+2/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,44.56,38.79,38.21,65.04,104.88,66.18,314.05,126.57
+2/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,40.75,36.18,35.93,59.36,103.44,61.62,226.89,115.65
+2/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,55.23,49.45,50.17,35.21,102.36,35.51,273.39,129.82
+2/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,22.1,26.88,26.36,43.85,102.24,44.4,-12.52,10.62
+2/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,16.61,23.55,23.18,30.57,103.91,31.38,-40.51,-26.65
+2/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,41.16,39.92,39.38,52.11,111.76,55.81,101.78,96.7
+2/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,39.88,38.91,39.86,39.29,99.65,39.19,84.32,72.79
+2/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,61.42,57.78,57.37,40.94,102.65,41.61,228.56,200.58
+2/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,35.39,44.2,43.02,34.78,105.89,37.01,48.49,157.92
+2/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,46.37,55.18,55.67,35.62,104.48,36.52,123.28,138.01
+2/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,28.03,34.51,33.88,29.93,103.77,30.88,47.8,37.31
+2/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,16.98,22.39,21.3,30.12,104.66,30.57,-39.5,-31.93
+2/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,35.51,30.95,29.06,45.01,109.41,49.84,83.14,30.18
+2/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.6,38.89,38.39,44.19,103.32,45.4,143.39,113.42
+2/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,48.15,35.47,36.07,48.54,102.54,48.72,204.78,76.58
+2/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,36.65,43.49,42.91,30.06,104.09,31.12,79.24,96.71
+2/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,62.92,48.4,49.3,50.69,101.21,50.78,200.97,83.28
+2/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,38.3,31.94,32.37,55.37,99.81,55.62,50.33,25.44
+2/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,21.06,23.73,23.35,36.6,103.1,37.35,-13.34,-1.47
+2/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,50.62,45.58,44.68,53.45,103.91,55.93,190.81,85.66
+2/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,40.66,45.07,44.29,35.51,104.35,36.25,107.31,103.48
+3/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,44.6,37.06,37.55,59.78,100.37,60.42,224.47,85.85
+3/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,43.56,37,35.85,41.01,107.98,42.94,103.1,52.02
+3/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,56.37,45.74,46.06,46.83,103.72,48.48,164.1,117.1
+3/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,29.36,29.99,29.11,41.81,103.1,42.69,71.83,6.05
+3/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,13.89,19.62,18.11,28.83,104.62,29.9,-53.99,-36.3
+3/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,29.89,30,30.44,40.14,102.76,40.01,123.77,35.24
+3/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,33.7,41.08,41.55,30.31,100.25,30.46,52.17,98.94
+3/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,41.49,41.84,41.53,39.58,105.73,42.41,122.31,91.39
+3/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,29.86,40.92,40.95,27.83,101.34,28.2,108.7,75.91
+3/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,58,54.4,55.74,41.89,99.33,41.38,212.42,135.73
+3/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,24.6,31.51,31.31,29.3,101.69,29.44,7.14,27.86
+3/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,17.13,19.42,19.27,38.2,100.27,37.73,-47.18,-40.95
+3/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,37.02,35.42,34.94,61.66,102.11,63.74,25.18,41.41
+3/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,40.09,41.72,41.3,36.4,103.08,36.52,219.63,121.24
+3/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,53.86,47.89,47.17,52.63,103.64,53.79,123.71,82.58
+3/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,33.1,40.04,39.45,33.82,102.7,34.49,56.84,34.36
+3/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,47.18,45.93,45.16,41.72,107.12,44.1,34.45,44.24
+3/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,23.49,24.85,24.86,46.78,104.58,49.68,-19.01,-20.03
+3/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,14.71,21.93,21.92,25.38,102.43,26.05,-53.27,-13.88
+3/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,45.08,42.24,42.41,52.71,103.58,53.25,167.83,93.54
+3/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,57.4,51.37,49.64,55.7,110.51,59.97,222.8,126.37
+3/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,37.09,40.76,40.98,35.66,100.9,35.97,163.71,73.88
+3/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,43.96,50.63,49.31,36.88,104.01,37.77,47.23,82.41
+3/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,46.32,45.41,46.64,35.57,99.17,35.13,53.56,55.44
+3/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,19.85,25.96,25.76,30.98,102.43,31.84,-28.43,-9.91
+3/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,20.67,27.24,26.13,31.79,104.82,32.53,-24.1,-8.34
+3/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,36.27,39.14,38.54,40.7,103,41.36,85.41,58.17
+3/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,40.83,45.61,46.23,40.06,99.35,40.22,198.14,143.89
+3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,42.63,50.75,49.53,28.89,105.89,30.36,149.44,142.77
+3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,39.96,48.87,46.26,40.79,110.31,44.08,68.19,78.68
+3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Quarters,58.02,57.31,55.09,33.71,111.38,35.18,145.98,115.04
 1/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Civic,121.89,121.98,111.1,42.59,103.94,44.04,353.19,348.04
 1/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Civic,66.59,74.1,71.57,44.46,102.54,45.35,210.87,156.06
 1/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Civic,71.26,89.57,87.37,36.91,102.86,37.71,123.33,147.8
@@ -719,93 +719,93 @@ Transaction date,industry,segment,geo_type,geo_name,nation_name,boundary_name,Tr
 3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Park and Hotel,146.84,113.02,112.95,64.11,101.48,65.94,71.81,65.56
 3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Park and Hotel,175.17,118.08,117.88,69.99,101.61,72.92,18.52,36.51
 3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Park and Hotel,175.79,128.79,130.01,64.07,101.64,66.17,44.22,71.11
-1/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,69.4,111.28,102.48,46.04,108,48.62,49.91,74.08
-1/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,66.42,85.77,86.94,44.32,99.71,44.73,21.01,1.84
-1/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,52.31,58.84,60.62,57.93,98.62,57.15,2.34,-11.28
-1/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,59.21,101.52,101.23,38.88,101.31,39.89,111.6,136.59
-1/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,80.02,112.91,111.49,53.68,102.12,55.21,41.8,72.59
-1/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,74.38,115.56,114.73,40.46,100.81,40.65,65.29,81.79
-1/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,97.51,139.56,133.76,48.78,103.07,49.46,77.61,89.12
-1/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,86.98,119.54,114.1,50.16,104.85,52.77,26.64,39.3
-1/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,58.75,102.11,103.78,40.36,99.38,40.19,37.57,41.35
-1/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,60.96,110.4,111.33,32.1,100.42,32.17,16.76,44.64
-1/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,63.88,114.9,115.01,30.7,101.97,31.52,31.69,56.33
-1/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,73.57,107.31,106.85,50.51,101.02,51.37,46.62,39.95
-1/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,78.25,124.29,123.88,36.92,100.58,37.2,91.83,78.3
-1/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,98.8,134.15,128.46,44.71,104.09,46.16,69.7,58.95
-1/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,72.13,116.48,112.01,35.38,103.34,36.75,-7.9,17.55
-1/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,61.07,104.04,105.44,50.93,99.9,50.77,14.8,27.81
-1/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,64.39,115.84,115.7,34.16,101.08,34.64,100.45,103.52
-1/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,67.28,109.22,109.42,32.49,101.13,33.1,77.94,71.77
-1/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.11,124.24,124.58,34.28,100.52,34.87,61.93,81.75
-1/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,89.09,140.63,137.36,36.58,103.08,38.49,75.6,71.5
-1/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,103.68,143.69,138.15,41.45,104.73,43.62,73.89,82.5
-1/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.32,132.92,125.44,30.71,104.8,31.9,-16.9,11.1
-1/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,62.21,115.31,115.87,30.87,101.12,31.21,16.5,32.5
-1/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,63.42,113.72,116.23,35.73,99.3,35.7,50.18,45.77
-1/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,76.05,127.15,126.09,36.2,102.18,37.72,60.49,69.54
-1/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,78.37,122.16,123.4,41.76,100.39,42.57,70.22,63.79
-1/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.36,120.63,119.7,36.02,101.96,37,42,56.56
-1/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,94.63,132.64,127.5,39.39,103.79,40.82,53.38,40.21
-1/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,86.45,120.8,116.5,43.95,103.15,45.03,-2.31,11.19
-1/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,57.14,107.09,108.26,28.68,100.01,28.64,0.2,8.93
-1/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,52.36,102.44,103.64,31.94,100.24,32.06,32.38,68.42
-2/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,51.82,103.69,104.89,28.47,100.1,28.56,47.88,124.14
-2/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,59.72,109.84,109.64,30.58,101.38,31.06,33.16,57.86
-2/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,90.9,139.25,138.58,37.43,100.8,37.77,107.05,89.09
-2/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,97.15,132.58,128.34,41.83,103.18,43.46,48.67,44.98
-2/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,74.3,123.12,118.96,33.98,103.92,35.46,2.61,29.52
-2/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,50.73,101.47,101.36,31.65,100.84,31.88,0.21,9.21
-2/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,41.62,85.86,87.58,28.92,99.4,28.78,7.54,14.41
-2/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,67.22,113.19,113.09,36.17,101.22,36.79,23,30.97
-2/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,60.75,121.68,121.19,27.12,101.53,27.55,5.47,33.18
-2/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,92.84,129.55,129.09,47.2,101.29,47.87,85.53,68.34
-2/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,120.23,154.13,149.25,43.26,103.98,44.82,41.19,47.57
-2/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,78.88,136.22,129.62,28.79,106.37,30.83,-0.74,21.31
-2/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,65.91,121.19,122.44,35.51,100.24,35.41,-6.89,17.37
-2/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,55.01,102.34,105.08,33.66,98.89,33.34,16.19,30.75
-2/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,68.82,133.13,133.08,30.14,101.13,30.47,26.92,80.93
-2/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,73.43,134.35,134.77,32.34,101.18,33.08,37.68,80.84
-2/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,101.83,145.77,139.24,40.25,104.35,41.87,87.5,72.29
-2/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,91.97,130.45,125.08,42.85,103.43,43.77,35.29,50.65
-2/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,83.87,129.27,123.03,34.39,104.13,35.73,-19.58,11.2
-2/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,68.08,114.87,112.1,29.97,103.3,30.89,-10.33,10.42
-2/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,66.27,103.43,101.24,41.73,101.59,42.53,11.51,27.55
-2/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,59.22,92.1,92.37,40.21,102.36,41.54,22.9,36.13
-2/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,58.18,85.66,86.25,45.81,100.5,46.09,14.93,15.04
-2/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,69.82,106.62,104.83,38.73,102.21,39.31,56.62,50.79
-2/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,100.55,144.67,137.93,40.84,103.72,42.09,41.26,50.66
-2/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,86.54,127.03,121.99,43.75,103.49,44.73,3.05,12.83
-2/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,86.69,131.92,130.4,39.78,101.51,41.11,66.7,45.7
-2/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,82.14,114.87,114.25,42.7,102.5,44.59,63.1,38.47
-3/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,77.57,124.44,124.27,35.4,101.69,36.55,68.96,87.26
-3/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.32,137.3,135.71,31.47,102.84,32.77,52.96,66.2
-3/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,95.48,155.41,153.8,34.42,101.55,35.12,89.59,102.96
-3/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,110.85,147.84,140.07,44.64,105.09,47.2,75.74,45.14
-3/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,86.22,127.69,122.63,39.58,104.01,41.76,5.3,22.53
-3/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,56.85,105.48,105.72,32.69,100.79,32.85,-26.37,-8.57
-3/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,49,90.54,91.75,33.65,100.15,33.84,11.15,11.66
-3/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,56.71,117.26,116.7,31.17,102.07,31.92,4.04,36.67
-3/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,69.63,114.99,115.18,37.71,102.47,39.11,10.29,8.71
-3/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.84,123.41,122.87,34.35,100.84,34.67,28.48,38.7
-3/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,113.61,156.92,148.42,43.99,104.74,46.29,39.43,35.01
-3/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,79.78,125.42,120.39,37.39,103.78,39,-2.49,11.7
-3/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,60.46,115.04,114.58,31.32,101.57,31.74,-17.65,1.24
-3/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,75.26,129.23,128.43,36.54,101.07,36.85,34.36,57.47
-3/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,81.48,127.72,129.22,40.99,100.3,41.45,34.98,26.13
-3/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,80.28,130.61,131.01,37.41,100.82,38.23,24.11,21.34
-3/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,78.96,136.1,132.39,34.33,102.78,35.16,7.11,6.29
-3/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,102.41,140.67,133.64,41.95,104.88,43.53,19.06,7.92
-3/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,85.42,146.07,140.3,33.79,103.75,34.82,11.54,30.28
-3/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,73,127.97,126.25,37.48,101.64,37.73,19.69,16.36
-3/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,68.67,122.02,123.19,37.37,100.29,37.84,24.42,23.26
-3/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,82.69,128.98,128.27,41.59,101.16,42.09,51.36,29.34
-3/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,85.52,136.73,135.85,39.43,101.45,40.42,20.19,35.02
-3/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,89.47,144.05,143.22,34.71,101.36,35.2,37.89,43.91
-3/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,111.51,147.64,144.05,50.25,102.87,51.77,46.16,20.47
-3/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,89,144.16,138.28,34.25,102.89,35.12,-5.97,11.2
-3/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,60.96,114.24,113.24,39.35,101.74,40.42,-16.46,-5.21
-3/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,65.83,115.16,115.66,36.16,101.37,37.26,21.65,24.49
-3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,67.17,129.71,130.12,30.83,101.17,31.58,6.11,29.3
-3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,91.18,130.07,128.06,42.95,101.99,44.31,31.78,31.16
-3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,PostSecond,106.49,135.51,134.31,49.96,101.49,50.85,48.12,31.39
+1/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,69.4,111.28,102.48,46.04,108,48.62,49.91,74.08
+1/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,66.42,85.77,86.94,44.32,99.71,44.73,21.01,1.84
+1/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,52.31,58.84,60.62,57.93,98.62,57.15,2.34,-11.28
+1/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,59.21,101.52,101.23,38.88,101.31,39.89,111.6,136.59
+1/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,80.02,112.91,111.49,53.68,102.12,55.21,41.8,72.59
+1/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,74.38,115.56,114.73,40.46,100.81,40.65,65.29,81.79
+1/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,97.51,139.56,133.76,48.78,103.07,49.46,77.61,89.12
+1/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,86.98,119.54,114.1,50.16,104.85,52.77,26.64,39.3
+1/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,58.75,102.11,103.78,40.36,99.38,40.19,37.57,41.35
+1/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,60.96,110.4,111.33,32.1,100.42,32.17,16.76,44.64
+1/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,63.88,114.9,115.01,30.7,101.97,31.52,31.69,56.33
+1/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,73.57,107.31,106.85,50.51,101.02,51.37,46.62,39.95
+1/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,78.25,124.29,123.88,36.92,100.58,37.2,91.83,78.3
+1/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,98.8,134.15,128.46,44.71,104.09,46.16,69.7,58.95
+1/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,72.13,116.48,112.01,35.38,103.34,36.75,-7.9,17.55
+1/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,61.07,104.04,105.44,50.93,99.9,50.77,14.8,27.81
+1/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,64.39,115.84,115.7,34.16,101.08,34.64,100.45,103.52
+1/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,67.28,109.22,109.42,32.49,101.13,33.1,77.94,71.77
+1/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.11,124.24,124.58,34.28,100.52,34.87,61.93,81.75
+1/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,89.09,140.63,137.36,36.58,103.08,38.49,75.6,71.5
+1/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,103.68,143.69,138.15,41.45,104.73,43.62,73.89,82.5
+1/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.32,132.92,125.44,30.71,104.8,31.9,-16.9,11.1
+1/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,62.21,115.31,115.87,30.87,101.12,31.21,16.5,32.5
+1/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,63.42,113.72,116.23,35.73,99.3,35.7,50.18,45.77
+1/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,76.05,127.15,126.09,36.2,102.18,37.72,60.49,69.54
+1/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,78.37,122.16,123.4,41.76,100.39,42.57,70.22,63.79
+1/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.36,120.63,119.7,36.02,101.96,37,42,56.56
+1/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,94.63,132.64,127.5,39.39,103.79,40.82,53.38,40.21
+1/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,86.45,120.8,116.5,43.95,103.15,45.03,-2.31,11.19
+1/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,57.14,107.09,108.26,28.68,100.01,28.64,0.2,8.93
+1/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,52.36,102.44,103.64,31.94,100.24,32.06,32.38,68.42
+2/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,51.82,103.69,104.89,28.47,100.1,28.56,47.88,124.14
+2/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,59.72,109.84,109.64,30.58,101.38,31.06,33.16,57.86
+2/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,90.9,139.25,138.58,37.43,100.8,37.77,107.05,89.09
+2/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,97.15,132.58,128.34,41.83,103.18,43.46,48.67,44.98
+2/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,74.3,123.12,118.96,33.98,103.92,35.46,2.61,29.52
+2/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,50.73,101.47,101.36,31.65,100.84,31.88,0.21,9.21
+2/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,41.62,85.86,87.58,28.92,99.4,28.78,7.54,14.41
+2/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,67.22,113.19,113.09,36.17,101.22,36.79,23,30.97
+2/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,60.75,121.68,121.19,27.12,101.53,27.55,5.47,33.18
+2/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,92.84,129.55,129.09,47.2,101.29,47.87,85.53,68.34
+2/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,120.23,154.13,149.25,43.26,103.98,44.82,41.19,47.57
+2/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,78.88,136.22,129.62,28.79,106.37,30.83,-0.74,21.31
+2/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,65.91,121.19,122.44,35.51,100.24,35.41,-6.89,17.37
+2/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,55.01,102.34,105.08,33.66,98.89,33.34,16.19,30.75
+2/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,68.82,133.13,133.08,30.14,101.13,30.47,26.92,80.93
+2/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,73.43,134.35,134.77,32.34,101.18,33.08,37.68,80.84
+2/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,101.83,145.77,139.24,40.25,104.35,41.87,87.5,72.29
+2/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,91.97,130.45,125.08,42.85,103.43,43.77,35.29,50.65
+2/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,83.87,129.27,123.03,34.39,104.13,35.73,-19.58,11.2
+2/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,68.08,114.87,112.1,29.97,103.3,30.89,-10.33,10.42
+2/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,66.27,103.43,101.24,41.73,101.59,42.53,11.51,27.55
+2/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,59.22,92.1,92.37,40.21,102.36,41.54,22.9,36.13
+2/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,58.18,85.66,86.25,45.81,100.5,46.09,14.93,15.04
+2/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,69.82,106.62,104.83,38.73,102.21,39.31,56.62,50.79
+2/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,100.55,144.67,137.93,40.84,103.72,42.09,41.26,50.66
+2/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,86.54,127.03,121.99,43.75,103.49,44.73,3.05,12.83
+2/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,86.69,131.92,130.4,39.78,101.51,41.11,66.7,45.7
+2/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,82.14,114.87,114.25,42.7,102.5,44.59,63.1,38.47
+3/1/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,77.57,124.44,124.27,35.4,101.69,36.55,68.96,87.26
+3/2/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.32,137.3,135.71,31.47,102.84,32.77,52.96,66.2
+3/3/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,95.48,155.41,153.8,34.42,101.55,35.12,89.59,102.96
+3/4/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,110.85,147.84,140.07,44.64,105.09,47.2,75.74,45.14
+3/5/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,86.22,127.69,122.63,39.58,104.01,41.76,5.3,22.53
+3/6/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,56.85,105.48,105.72,32.69,100.79,32.85,-26.37,-8.57
+3/7/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,49,90.54,91.75,33.65,100.15,33.84,11.15,11.66
+3/8/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,56.71,117.26,116.7,31.17,102.07,31.92,4.04,36.67
+3/9/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,69.63,114.99,115.18,37.71,102.47,39.11,10.29,8.71
+3/10/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.84,123.41,122.87,34.35,100.84,34.67,28.48,38.7
+3/11/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,113.61,156.92,148.42,43.99,104.74,46.29,39.43,35.01
+3/12/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,79.78,125.42,120.39,37.39,103.78,39,-2.49,11.7
+3/13/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,60.46,115.04,114.58,31.32,101.57,31.74,-17.65,1.24
+3/14/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,75.26,129.23,128.43,36.54,101.07,36.85,34.36,57.47
+3/15/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,81.48,127.72,129.22,40.99,100.3,41.45,34.98,26.13
+3/16/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,80.28,130.61,131.01,37.41,100.82,38.23,24.11,21.34
+3/17/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,78.96,136.1,132.39,34.33,102.78,35.16,7.11,6.29
+3/18/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,102.41,140.67,133.64,41.95,104.88,43.53,19.06,7.92
+3/19/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,85.42,146.07,140.3,33.79,103.75,34.82,11.54,30.28
+3/20/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,73,127.97,126.25,37.48,101.64,37.73,19.69,16.36
+3/21/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,68.67,122.02,123.19,37.37,100.29,37.84,24.42,23.26
+3/22/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,82.69,128.98,128.27,41.59,101.16,42.09,51.36,29.34
+3/23/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,85.52,136.73,135.85,39.43,101.45,40.42,20.19,35.02
+3/24/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,89.47,144.05,143.22,34.71,101.36,35.2,37.89,43.91
+3/25/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,111.51,147.64,144.05,50.25,102.87,51.77,46.16,20.47
+3/26/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,89,144.16,138.28,34.25,102.89,35.12,-5.97,11.2
+3/27/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,60.96,114.24,113.24,39.35,101.74,40.42,-16.46,-5.21
+3/28/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,65.83,115.16,115.66,36.16,101.37,37.26,21.65,24.49
+3/29/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,67.17,129.71,130.12,30.83,101.17,31.58,6.11,29.3
+3/30/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,91.18,130.07,128.06,42.95,101.99,44.31,31.78,31.16
+3/31/2023,Total Retail,Overall,Msa,Edmonton,Canada,Post Secondary,106.49,135.51,134.31,49.96,101.49,50.85,48.12,31.39
